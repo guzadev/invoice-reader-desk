@@ -1,7 +1,7 @@
 
-# Invoice Processor
+# Invoice Reader
 
-Este proyecto es una aplicación de procesamiento de facturas en PDF que extrae información relevante como saldos y cuotas a vencer, los guarda en una base de datos SQLite, y permite generar gráficos a partir de los datos extraídos. La aplicación incluye una interfaz gráfica de usuario (GUI) construida con `tkinter`.
+Este proyecto es una aplicación de escritorio que lee de facturas en PDF y extrae información relevante como saldos y cuotas a vencer, los guarda en una base de datos SQLite, y permite generar gráficos a partir de los datos extraídos. La aplicación incluye una interfaz gráfica de usuario (GUI) construida con `tkinter`.
 
 ## Características
 
